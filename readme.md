@@ -7,7 +7,7 @@ A peice of fan-fiction for the First Age.  Nox and Aria make a trip to the Unite
 * [Sacrafices](003.md) - 3867 words
 * [Fears](004.md) - 2259 words
 * [The Flight](005.md) - 1249 words
-* [My Stomping Grounds](006.md)
+* [My Stomping Grounds](006.md) - 1136 words
 * [Legends](007.md) - 5922 words
 * [Long Distance Call](007a.md) - 1721 words
 * [Horse Play](007n.md) - 7136 words
