@@ -1,6 +1,6 @@
 # Fighting Demons
 
-A peice of fan-fiction for the First Age.  Nox and Aria make a trip to the United States.  Nox shows Aria around his stomping grounds, and prepares to take his life to Moscow.  They meet another hunter, Jacinda Cross, a renowned hunter, that they've both heard of.  Along the way mysteries are uncovered and a whole new world is about to emerge.
+A peice of fan-fiction for the First Age.  Nox and Aria make a trip to the United States.  Nox shows Aria around his stomping grounds, and prepares to take his life to Moscow.  They meet another hunter, Jacinda Cross, a renowned hunter, that they've both heard of.  Along the way mysteries are uncovered.
 
 * [Business As Usual](001.md) - 2898 words
 * [Come With Me](002.md) - 1169 words
@@ -13,4 +13,4 @@ A peice of fan-fiction for the First Age.  Nox and Aria make a trip to the Unite
 * [Horse Play](007n.md) - 7136 words
 * [Darkness Tempts](008.md) - 37063 words
 * [Circumstances](009.md) - 26927 words
-* [Glitches in the Pattern](010.md) - ??
+* [Glitches in the Pattern](010.md) - 7288 words
